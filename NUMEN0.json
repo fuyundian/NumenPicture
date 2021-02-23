@@ -1,16 +1,16 @@
-"title": "彭于晏",
+"title": "爱神阿芙洛狄忒",
 "type": "object",
 "properties": {
     "name": {
         "type": "string",
-        "description": "彭于晏",
+        "description": "阿芙洛狄忒",
     },
     "description": {
         "type": "string",
-        "description": "彭于晏，1982年3月24日出生于台湾省澎湖县，毕业于不列颠哥伦比亚大学，加拿大籍华裔影视男演员、歌手",
+        "description": "阿佛洛狄忒（希腊语：Ἀφροδίτη、英语：Aphrodite），是古希腊神话中爱情与美丽的女神，同时也是性欲女神，奥林匹斯十二主神之一。因其诞生于海洋，所以有时还被奉为航海的庇护神。阿佛洛狄忒生于海中浪花，拥有白瓷般的肌肤、金发碧眼和古希腊女性完美的身材和相貌，象征女性的美丽，被认为是女性身体美的最高象征。阿佛洛狄忒是火与工匠之神赫菲斯托斯（Hephaestus）的妻子，但经常对丈夫不忠，有关她的恋爱传说很多。在古希腊、古罗马以及文艺复兴时期艺术作品的，她会被塑造成绝色美人，而有关于她的最著名的雕像，是在米洛斯岛出土的“米洛斯的阿弗洛狄忒”",
     },
     "image": {
         "type": "string",
-        "description": "https://github.com/fuyundian/NumenPicture/blob/main/%E5%BD%AD%E4%BA%8E%E6%99%8F.png",
+        "description": "https://github.com/fuyundian/NumenPicture/blob/main/爱神阿芙洛狄忒01.png",
     }
 }
