@@ -1,0 +1,16 @@
+"title": "彭于晏",
+"type": "object",
+"properties": {
+    "name": {
+        "type": "string",
+        "description": "彭于晏",
+    },
+    "description": {
+        "type": "string",
+        "description": "彭于晏，1982年3月24日出生于台湾省澎湖县，毕业于不列颠哥伦比亚大学，加拿大籍华裔影视男演员、歌手",
+    },
+    "image": {
+        "type": "string",
+        "description": "https://github.com/fuyundian/NumenPicture/blob/main/%E5%BD%AD%E4%BA%8E%E6%99%8F.png",
+    }
+}
